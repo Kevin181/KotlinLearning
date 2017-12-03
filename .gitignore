@@ -1,0 +1,9 @@
+videos
+build
+.gradle
+*.iml
+.idea
+out
+raw
+cache
+beta
